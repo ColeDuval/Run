@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from Matplotlib import pyplot as plt
+import matplotlib.pyplot as plt
 import csv as csv
 import numpy as np
 import pydeck as pdk
