@@ -6,6 +6,7 @@ import numpy as np
 import pydeck as pdk
 import random as rd
 from PIL import Image
+from matplotlib import pyplot as plt
 
 st.set_page_config(
     page_title="Graphing Tools",
